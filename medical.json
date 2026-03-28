@@ -1,7 +1,7 @@
 {
   "version": "4.1",
-  "notes": "1) create update exe
+  "notes": "1) create UpdatePackage
 2) Display the current program version on the main screen
 3) Display the current version when the program is running",
-  "download_url": "https://github.com/netsysforsoftware/AngezUpdates/releases/download/v1/UpdatePackage.exe"
+  "download_url": "https://github.com/netsysforsoftware/AngezUpdates/releases/download/v1/UpdatePackage.zip"
 }
