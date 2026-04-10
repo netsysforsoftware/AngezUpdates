@@ -1,8 +1,5 @@
 {
   "version": "4.2",
- "notes": [
-    "Change barcode size",
-    "Change barcode size"
-  ],
+  "notes": "1) Change barcode size 2) Change barcode size",
   "download_url": "https://github.com/netsysforsoftware/AngezUpdates/releases/download/autoversion/UpdateautoPackage.zip"
 }
