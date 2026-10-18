@@ -1,5 +1,5 @@
 {
-  "version": "6.4.0",
-  "notes": "1) The program now includes Arabic and English languages, and some improvements have been made to facilitate use) ",
+  "version": "6.5.0",
+  "notes": "1) Fixed some bugs in version 6.4 and added some protection for system stability.) ",
   "download_url": "https://github.com/netsysforsoftware/AngezUpdates/releases/download/autoversion/SmartAutoProgram.zip"
 }
