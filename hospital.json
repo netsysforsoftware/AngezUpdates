@@ -1,5 +1,5 @@
 {
-  "version": "17.0.9",
-  "notes": "Added updates to the accommodation section",
+  "version": "18.0.0",
+  "notes": "Added a barcode to the patient's ticket and made some improvements to make the system easier to use.",
   "download_url": "https://github.com/netsysforsoftware/AngezUpdates/releases/download/hospital/Angez_Hospital_pro.zip"
 }
