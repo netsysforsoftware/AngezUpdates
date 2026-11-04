@@ -1,5 +1,5 @@
 {
-  "version": "6.6.0",
+  "version": "6.7.0",
   "notes": "The interface has been changed to an interactive one - different payment methods have been added - security has been increased to ensure system stability. ",
   "download_url": "https://github.com/netsysforsoftware/AngezUpdates/releases/download/autoversion/SmartAutoProgram.zip"
 }
