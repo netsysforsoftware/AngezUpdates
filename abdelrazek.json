@@ -1,5 +1,5 @@
 {
-  "version": "6.7.0",
-  "notes": "تحسين الواجهة ",
+  "version": "6.8.0",
+  "notes": "Improved interface - Fixed issues from the previous version - Added some security measures for system stability ",
   "download_url": "https://github.com/netsysforsoftware/AngezUpdates/releases/download/autoversion/SmartAutoProgram.zip"
 }
